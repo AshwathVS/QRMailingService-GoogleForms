@@ -20,6 +20,7 @@ The entire app revolves around the application.properties.
 
 Once you have setup the properties file, run the AppStart.java and wait for the process to complete. Logging will be done in file called Logging.log.
 
-# Note: Only google accounts are supported. 
-# If you want me to send over the mails or need any assistance, please drop a mail at ashsat.vijayan122@gmail.com 
-# Kindly report any bugs at ashsat.vijayan122@gmail.com.
+# Note: 
+Only google accounts are supported. 
+If you want me to send over the mails or need any assistance, please drop a mail at ashsat.vijayan122@gmail.com 
+Kindly report any bugs at ashsat.vijayan122@gmail.com.
