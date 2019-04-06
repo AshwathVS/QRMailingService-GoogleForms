@@ -50,6 +50,14 @@ public class FileUtils {
         return file.delete();
     }
 
+    public static boolean deleteQRDir() {
+        File file = new File(QR_BASE_LOCATION);
+        if(file.exists()) {
+            return file.delete();
+        }
+        return false;
+    }
+
 
 
 }

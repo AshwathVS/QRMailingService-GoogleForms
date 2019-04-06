@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c684a12-6b5f-457e-8b6f-13bb37b0c95d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/app/start/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/app/start/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utils/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utils/FileUtils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,20 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+            <state relative-caret-position="225">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/main/app/start/AppStart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="583">
+              <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/FileUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="543">
+              <caret line="52" column="37" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -120,6 +122,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>void main</find>
+      <find>qrmailing</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -133,9 +136,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/main/app/excel/ExcelImporter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/main/app/mail/MailUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/main/app/qr/QRGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/main/app/start/AppStart.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/utils/FileUtils.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/utils/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/main/app/start/AppStart.java" />
       </list>
     </option>
   </component>
@@ -217,7 +220,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554576772366" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554577155653" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -273,12 +276,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554573049576</updated>
-      <workItem from="1554573051508" duration="3439000" />
+      <workItem from="1554573051508" duration="3756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3439000" />
+    <option name="totallyTimeSpent" value="3756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -295,10 +298,10 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -416,27 +419,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/utils/FileUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="543">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/main/app/start/AppStart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="583">
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
         </state>
       </provider>
     </entry>

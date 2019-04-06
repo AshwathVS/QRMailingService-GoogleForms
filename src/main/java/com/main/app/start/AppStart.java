@@ -51,6 +51,7 @@ public class AppStart {
                 LoggingUtils.logError(ex);
                 System.out.println("Exception occurred, please check the properties file values and try again....");
             }
+            FileUtils.deleteQRDir();
         }
         else {
             System.out.println("Exiting....");
